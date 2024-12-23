@@ -1,88 +1,88 @@
-#University Dashboard
+#**University Dashboard**
 
-Description
+##**Description**
 
 The University Dashboard is a Java Swing-based application designed to streamline university management processes. It provides distinct interfaces for students, faculty, and administrators, each with tailored functionalities to manage academic and administrative tasks efficiently. The project is built using Object-Oriented Programming (OOP) principles and utilizes File I/O for data storage, avoiding the need for a database.
 
-Features
+##**Features**
 
-Admin Dashboard
+###**Admin Dashboard**
 
-Add, update, and remove student details.
+*Add, update, and remove student details.
 
-Manage courses: add, update, and delete courses.
+*Manage courses: add, update, and delete courses.
 
-Add, update, and remove faculty details.
+*Add, update, and remove faculty details.
 
-Manage administrator accounts.
+*Manage administrator accounts.
 
-Faculty Dashboard
+###**Faculty Dashboard**
 
-View and update faculty profiles.
+*View and update faculty profiles.
 
-Manage student operations, such as updating grades or attendance.
+*Manage student operations, such as updating grades or attendance.
 
-Access student details for courses assigned to the faculty.
+*Access student details for courses assigned to the faculty.
 
-Student Dashboard
+###**Student Dashboard**
 
-View and update student profiles.
+*View and update student profiles.
 
-Explore offered courses and their details.
+*Explore offered courses and their details.
 
-Register for courses.
+*Register for courses.
 
-Technologies Used
+**Technologies Used**
 
-Programming Language: Java
+1.Programming Language: Java
 
-GUI Framework: Java Swing
+2.GUI Framework: Java Swing
 
-Data Storage: File I/O
+3.Data Storage: File I/O
 
 OOP Principles: Encapsulation, Polymorphism, Inheritance, Abstraction, Interfaces, and Association
 
-How to Run the Project
+**How to Run the Project**
 
-Clone the repository:
+*Clone the repository:
 
-git clone https://github.com/yourusername/university-dashboard.git
+[git clone] (https://github.com/yourusername/university-dashboard.git)
 
-Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans).
+*Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans).
 
-Ensure you have Java Development Kit (JDK) installed on your system.
+*Ensure you have Java Development Kit (JDK) installed on your system.
 
-Run the main application file to launch the dashboard.
+*Run the main application file to launch the dashboard.
 
-Project Structure
+**Project Structure**
 
 The project is organized into the following modules:
 
-Admin Module: Handles all administrative functionalities.
+1.Admin Module: Handles all administrative functionalities.
 
-Faculty Module: Manages faculty-related operations.
+2.Faculty Module: Manages faculty-related operations.
 
-Student Module: Provides student-related features.
+3.Student Module: Provides student-related features.
 
-File I/O Module: Reads and writes data to files for persistence.
+4.File I/O Module: Reads and writes data to files for persistence.
 
 
-Contributions
+**Contributions**
 
-This project was developed during the 3rd semester as a university assignment. Contributions include:
+This project was developed during the **3rd semester as a university assignment**. Contributions include:
 
-Admin, Faculty, and Student dashboards
+*Admin, Faculty, and Student dashboards
 
-Random ID generation for user registration
+*Random ID generation for user registration
 
-Login and profile management features
+*Login and profile management features
 
-Contact
+**###Contact**
 
 For any queries or feedback, feel free to reach out:
 
-Name: Shah Jalal Dip
+*Name: Shah Jalal Dip
 
-Email: shahjalaldip246@gmail.com
+*Email: (shahjalaldip246@gmail.com)
 
-LinkedIn: Shah Jalal Dip
+*LinkedIn: ([Shah Jalal Dip](https://www.linkedin.com/in/shahjalal-dip))
